@@ -50,11 +50,9 @@
 
 
 <div class="container">
-    <hr>
-
-    <footer>
-        <p>&copy; Company 2014</p>
-    </footer>
+        <p>
+            <h1>Sample Demo App - Created for Demo</h1>
+        </p>
 </div> <!-- /container -->
 
 
