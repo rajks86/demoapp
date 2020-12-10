@@ -26,7 +26,7 @@
 
 <div class="container">
         <p>
-            <h1>Sample Demo App - Created for Demo</h1>
+            <h1>Goobuy World</h1>
         </p>
 </div> <!-- /container -->
 
